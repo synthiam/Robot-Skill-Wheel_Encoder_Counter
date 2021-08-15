@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>Wheel Encoder Counter</FRIENDLY_NAME>
+  <DLL_FILENAME>Wheel Encoder Counter.dll</DLL_FILENAME>
+  <AUTHOR_NAME>DJ Sures</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>3b1d4f5c-ae27-4a2a-8d73-35e8e0ca16f7</PLUGIN_GUID>
+  <CATEGORY_TYPE>Navigation</CATEGORY_TYPE>
+  <DESCRIPTION>This control is compatible with firmware that counts wheel rotation for left and right wheels. </DESCRIPTION>
+  <VersionRelease>6</VersionRelease>
+</PluginV1XML>
